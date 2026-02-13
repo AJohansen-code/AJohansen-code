@@ -1,4 +1,4 @@
-# Useful Resources 
+# Useful Resources sites
 
 # cppreference.com
 A comprehensive and highly detailed online encyclopedia for the C++ standard library and language features.
